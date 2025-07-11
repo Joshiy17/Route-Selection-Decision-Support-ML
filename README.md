@@ -41,17 +41,7 @@ Risk Score: 0.2
 
 ---
 
-## UI Diagram
+## UML Diagram
+<img width="1024" height="1536" alt="UML" src="https://github.com/user-attachments/assets/56778315-806e-46cd-87b7-ae87cb037555" />
 
-```
-+------------------------------+
-|  Route Selection System      |
-+------------------------------+
-|  Load routes.csv             |
-|  Show list of routes         |
-|  [User input]                |
-|   - Max risk                 |
-|   - Max time                 |
-|  [Recommend route]           |
-+------------------------------+
-```
+
