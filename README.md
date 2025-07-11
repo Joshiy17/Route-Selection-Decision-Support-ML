@@ -41,7 +41,7 @@ Risk Score: 0.2
 
 ---
 
-## Simple UI Diagram
+## UI Diagram
 
 ```
 +------------------------------+
